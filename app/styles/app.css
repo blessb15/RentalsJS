@@ -1,0 +1,27 @@
+.jumbotron{
+  color: blue;
+  font-family: cursive;
+  text-shadow: 5px 6px 7px green;
+}
+
+.center {
+  text-align: center;
+
+}
+
+body {
+  text-align: center;
+  background-color: yellow;
+  background-image: url('https://tau0.files.wordpress.com/2013/04/arizona_cactus_04.jpg');
+}
+
+a {
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-shadow: 1px 1px 10px black;
+}
+
+li {
+  list-style: none;
+}
